@@ -1,0 +1,26 @@
+table{
+   width:300px; 
+   margin:90px auto;
+}
+caption{
+    margin-bottom:15px;
+    font-size: 24px;
+    font-weight: bold;
+    color:#000;
+}
+th{
+text-align: left;
+}
+table,th,td{
+    border:1px solid #000;
+    border-collapse:collapse;
+    padding:4px;
+}
+.container{
+  max-width: 400px;
+  width: 100%;
+  background: #FFF;
+  margin: 20px auto;
+  box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
+  padding: 30px;
+}
